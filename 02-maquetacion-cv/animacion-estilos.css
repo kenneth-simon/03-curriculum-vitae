@@ -1,15 +1,15 @@
 body{
-    background-image: url(fondo-vid.jpg);
+    background-image: url(fondo-ani.jpg);
 }
 
 h1{
-    background-color: rgb(241, 255, 118);
+    background-color: rgb(229, 255, 0);
     text-align: center;
     font-size: 50px;
     font-weight: 1000;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: #00c3ff;
+    color: #0018a3;
 
 }
 
@@ -18,10 +18,18 @@ h2{
     font-weight: 900;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-    color: #000877;
+    color: #0a5800;
 }
 
 h3{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #fc0000;
+}
+
+h4{
     font-size: 40px;
     font-weight: 900;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -29,9 +37,8 @@ h3{
     color: #fffc32;
 }
 
-
 div{
-    color: #cf0000;
+    color: #000000;
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
